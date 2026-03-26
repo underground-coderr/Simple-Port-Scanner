@@ -77,9 +77,7 @@ Simple Port Scanner/
                         a live progress counter while scanning
     main.cpp          — CLI argument parsing, kicks off the scan, prints the
                         final results table
-  .gitignore
-  LICENSE
-  README.md
+ 
 ```
 
 ---
